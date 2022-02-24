@@ -1,0 +1,26 @@
+body {
+  background-color: #233142;
+}
+h1 {
+  color: aqua;
+  font-size: 100px;
+  font-style: italic;
+}
+h2 {
+  font-size: 50px;
+  position: relative;
+  left: 120px;
+  color: aqua;
+}
+div {
+  width: 482px;
+  height: 482px;
+}
+#p2-container {
+  position: relative;
+  left: 482px;
+  bottom: 520px;
+}
+.dice6 {
+  margin-left: 100px;
+}
